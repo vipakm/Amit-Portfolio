@@ -1,7 +1,3 @@
-Here’s your enhanced Vue.js Portfolio `README.md` with your custom domain (`kumaramit.tech`) included and polished for professional presentation:
-
----
-
 # **Amit Kumar – Vue.js Portfolio**
 
 A modern, responsive portfolio website built using **Vue.js 3** and **Vite** — live at [**kumaramit.tech**](https://kumaramit.tech)
@@ -184,7 +180,3 @@ Deploy the `dist/` folder to any static hosting:
 
 **MIT License**
 Feel free to use this portfolio as a template for your own projects.
-
----
-
-Let me know if you'd like a markdown or `.docx` file version of this as well!
