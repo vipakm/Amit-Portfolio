@@ -4,7 +4,7 @@
     <div class="container">
       <div class="hero-content">
         <h1>AMIT KUMAR</h1>
-        <h2 class="typewriter" ref="typewriter">Software Developer</h2>
+        <h2 class="typewriter" ref="typewriter">Software Engineering</h2>
         <p class="hero-description">
           Passionate about building robust and scalable web applications with cutting-edge technologies.
         </p>
